@@ -15,7 +15,7 @@ This project analyzes ride booking data to identify patterns in cancellations, r
 - DAX (Measures & Calculations)
 
 ## 📌 Key Insights
-- Evening time shows highest cancellations
+- Morning time shows highest cancellations
 - Driver cancellations are higher than customer cancellations
 - Majority rides are successfully completed
 - Certain time slots generate higher revenue
